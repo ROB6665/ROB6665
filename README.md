@@ -1,4 +1,4 @@
-<img align="Center" alt="Coding" width="600" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
+<img align="Center" alt="Coding" width="750" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 
 👨‍💻 About Me :
 
