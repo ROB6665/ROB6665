@@ -1,7 +1,7 @@
 <h1 align="left">😁Hello World!🌏</h1>
-
+<div align="center" dir="auto">
 <img align="Center" alt="Coding" width="450" height="300" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
-
+</div>
 <h2 align="left">👨‍💻 About Me :</h2>
 
 👋 Hi, I’m Robin Chaddha
